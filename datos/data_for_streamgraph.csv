@@ -1,0 +1,238 @@
+year,team,puntos,porcentaje
+1950,Alfa Romeo,89.0,80.9
+1950,Ferrari,21.0,19.1
+1951,Alfa Romeo,75.0,46.6
+1951,Ferrari,86.0,53.4
+1952,Ferrari,120.5,100.0
+1953,Ferrari,122.5,100.0
+1954,Ferrari,80.28,57.2
+1954,Mercedes,60.14,42.8
+1955,Ferrari,33.99,30.1
+1955,Mercedes,79.0,69.9
+1956,Ferrari,83.0,100.0
+1957,Ferrari,48.0,100.0
+1958,Ferrari,93.0,100.0
+1959,Aston Martin,0.0,0.0
+1959,Ferrari,67.0,100.0
+1960,Aston Martin,0.0,0.0
+1960,Ferrari,43.0,100.0
+1961,Ferrari,99.0,100.0
+1962,Ferrari,30.0,100.0
+1963,Alfa Romeo,0.0,0.0
+1963,Ferrari,27.0,100.0
+1964,Ferrari,64.0,100.0
+1965,Alfa Romeo,0.0,0.0
+1965,Ferrari,32.0,100.0
+1966,Ferrari,42.0,100.0
+1967,Ferrari,23.0,100.0
+1968,Ferrari,37.0,100.0
+1968,McLaren,0.0,0.0
+1969,Ferrari,7.0,100.0
+1970,Ferrari,76.0,100.0
+1971,Ferrari,44.0,77.2
+1971,McLaren,13.0,22.8
+1972,Ferrari,47.0,41.6
+1972,McLaren,66.0,58.4
+1973,Ferrari,14.0,17.1
+1973,McLaren,68.0,82.9
+1974,Ferrari,90.0,50.8
+1974,McLaren,87.0,49.2
+1975,Ferrari,89.5,55.8
+1975,McLaren,65.0,40.5
+1975,Williams,6.0,3.7
+1976,Ferrari,99.0,52.9
+1976,McLaren,88.0,47.1
+1976,Williams,0.0,0.0
+1977,Ferrari,114.0,63.7
+1977,McLaren,65.0,36.3
+1978,Ferrari,65.0,70.7
+1978,McLaren,16.0,17.4
+1978,Williams,11.0,12.0
+1979,Alfa Romeo,0.0,0.0
+1979,Ferrari,113.0,55.7
+1979,McLaren,15.0,7.4
+1979,Williams,75.0,36.9
+1980,Alfa Romeo,4.0,2.8
+1980,Ferrari,8.0,5.6
+1980,McLaren,11.0,7.7
+1980,Williams,120.0,83.9
+1981,Alfa Romeo,10.0,6.0
+1981,Ferrari,34.0,20.4
+1981,McLaren,28.0,16.8
+1981,Williams,95.0,56.9
+1982,Alfa Romeo,7.0,3.4
+1982,Ferrari,74.0,35.6
+1982,McLaren,69.0,33.2
+1982,Williams,58.0,27.9
+1983,Alfa Romeo,18.0,10.1
+1983,Ferrari,89.0,49.7
+1983,McLaren,34.0,19.0
+1983,Williams,38.0,21.2
+1984,Alfa Romeo,11.0,4.6
+1984,Ferrari,57.5,24.2
+1984,McLaren,143.5,60.4
+1984,Williams,25.5,10.7
+1985,Alfa Romeo,0.0,0.0
+1985,Ferrari,82.0,33.7
+1985,McLaren,90.0,37.0
+1985,Williams,71.0,29.2
+1986,Ferrari,37.0,13.5
+1986,McLaren,96.0,35.0
+1986,Williams,141.0,51.5
+1987,Ferrari,53.0,19.9
+1987,McLaren,76.0,28.6
+1987,Williams,137.0,51.5
+1988,Ferrari,65.0,22.9
+1988,McLaren,199.0,70.1
+1988,Williams,20.0,7.0
+1989,Ferrari,59.0,21.3
+1989,McLaren,141.0,50.9
+1989,Williams,77.0,27.8
+1990,Ferrari,110.0,38.2
+1990,McLaren,121.0,42.0
+1990,Williams,57.0,19.8
+1991,Ferrari,55.5,17.4
+1991,McLaren,139.0,43.5
+1991,Williams,125.0,39.1
+1992,Ferrari,21.0,7.4
+1992,McLaren,99.0,34.9
+1992,Williams,164.0,57.7
+1993,Ferrari,28.0,10.0
+1993,McLaren,84.0,30.0
+1993,Williams,168.0,60.0
+1994,Ferrari,71.0,30.7
+1994,McLaren,42.0,18.2
+1994,Williams,118.0,51.1
+1995,Ferrari,73.0,33.0
+1995,McLaren,30.0,13.6
+1995,Williams,118.0,53.4
+1996,Ferrari,70.0,23.8
+1996,McLaren,49.0,16.7
+1996,Williams,175.0,59.5
+1997,Ferrari,102.0,35.4
+1997,McLaren,63.0,21.9
+1997,Williams,123.0,42.7
+1998,Ferrari,133.0,40.7
+1998,McLaren,156.0,47.7
+1998,Williams,38.0,11.6
+1999,Ferrari,128.0,44.6
+1999,McLaren,124.0,43.2
+1999,Williams,35.0,12.2
+2000,Ferrari,170.0,46.2
+2000,McLaren,162.0,44.0
+2000,Williams,36.0,9.8
+2001,Ferrari,179.0,49.6
+2001,McLaren,102.0,28.3
+2001,Williams,80.0,22.2
+2002,Ferrari,221.0,58.5
+2002,McLaren,65.0,17.2
+2002,Williams,92.0,24.3
+2003,Ferrari,158.0,35.6
+2003,McLaren,142.0,32.0
+2003,Williams,144.0,32.4
+2004,Ferrari,262.0,62.5
+2004,McLaren,69.0,16.5
+2004,Williams,88.0,21.0
+2005,Ferrari,100.0,26.2
+2005,McLaren,182.0,47.6
+2005,Red Bull,34.0,8.9
+2005,Williams,66.0,17.3
+2006,Ferrari,201.0,59.5
+2006,McLaren,110.0,32.5
+2006,Red Bull,16.0,4.7
+2006,Williams,11.0,3.3
+2007,Ferrari,204.0,42.6
+2007,McLaren,218.0,45.5
+2007,Red Bull,24.0,5.0
+2007,Williams,33.0,6.9
+2008,Ferrari,172.0,45.5
+2008,McLaren,151.0,39.9
+2008,Red Bull,29.0,7.7
+2008,Williams,26.0,6.9
+2009,Ferrari,70.0,21.3
+2009,McLaren,71.0,21.6
+2009,Red Bull,153.5,46.7
+2009,Williams,34.5,10.5
+2010,Ferrari,396.0,24.3
+2010,McLaren,454.0,27.8
+2010,Mercedes,214.0,13.1
+2010,Red Bull,498.0,30.5
+2010,Williams,69.0,4.2
+2011,Ferrari,375.0,22.2
+2011,McLaren,497.0,29.4
+2011,Mercedes,165.0,9.8
+2011,Red Bull,650.0,38.4
+2011,Williams,5.0,0.3
+2012,Ferrari,400.0,27.5
+2012,McLaren,378.0,26.0
+2012,Mercedes,142.0,9.8
+2012,Red Bull,460.0,31.6
+2012,Williams,76.0,5.2
+2013,Ferrari,354.0,24.6
+2013,McLaren,122.0,8.5
+2013,Mercedes,360.0,25.1
+2013,Red Bull,596.0,41.5
+2013,Williams,5.0,0.3
+2014,Ferrari,216.0,11.8
+2014,McLaren,181.0,9.9
+2014,Mercedes,701.0,38.5
+2014,Red Bull,405.0,22.2
+2014,Williams,320.0,17.6
+2015,Ferrari,428.0,26.7
+2015,McLaren,27.0,1.7
+2015,Mercedes,703.0,43.9
+2015,Red Bull,187.0,11.7
+2015,Williams,257.0,16.0
+2016,Ferrari,398.0,21.2
+2016,Haas F1 Team,29.0,1.5
+2016,McLaren,76.0,4.1
+2016,Mercedes,765.0,40.8
+2016,Red Bull,468.0,25.0
+2016,Williams,138.0,7.4
+2017,Ferrari,522.0,30.4
+2017,Haas F1 Team,47.0,2.7
+2017,McLaren,30.0,1.7
+2017,Mercedes,668.0,38.9
+2017,Red Bull,368.0,21.4
+2017,Williams,83.0,4.8
+2018,Ferrari,571.0,31.6
+2018,Haas F1 Team,93.0,5.1
+2018,McLaren,62.0,3.4
+2018,Mercedes,655.0,36.2
+2018,Red Bull,419.0,23.2
+2018,Williams,7.0,0.4
+2019,Alfa Romeo,57.0,3.0
+2019,Ferrari,504.0,26.7
+2019,Haas F1 Team,28.0,1.5
+2019,McLaren,145.0,7.7
+2019,Mercedes,739.0,39.1
+2019,Red Bull,417.0,22.1
+2019,Williams,1.0,0.1
+2020,Alfa Romeo,8.0,0.6
+2020,AlphaTauri,107.0,8.0
+2020,Ferrari,131.0,9.8
+2020,Haas F1 Team,3.0,0.2
+2020,McLaren,202.0,15.0
+2020,Mercedes,573.0,42.7
+2020,Red Bull,319.0,23.8
+2020,Williams,0.0,0.0
+2021,Alfa Romeo,13.0,0.6
+2021,AlphaTauri,142.0,6.5
+2021,Alpine F1 Team,155.0,7.1
+2021,Aston Martin,77.0,3.5
+2021,Ferrari,322.5,14.7
+2021,Haas F1 Team,0.0,0.0
+2021,McLaren,274.0,12.5
+2021,Mercedes,604.5,27.6
+2021,Red Bull,578.5,26.4
+2021,Williams,23.0,1.1
+2022,Alfa Romeo,53.0,2.4
+2022,AlphaTauri,35.0,1.6
+2022,Alpine F1 Team,170.0,7.6
+2022,Aston Martin,55.0,2.5
+2022,Ferrari,519.0,23.1
+2022,Haas F1 Team,33.0,1.5
+2022,McLaren,150.0,6.7
+2022,Mercedes,495.0,22.1
+2022,Red Bull,724.0,32.3
+2022,Williams,8.0,0.4
