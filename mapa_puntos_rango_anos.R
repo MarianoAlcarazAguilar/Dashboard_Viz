@@ -47,7 +47,7 @@ encontrar_mejor_equipo <- function(anio_inicio, anio_fin, n_top) {
 }
 
 # Aquí es donde llamamos a la función filtrando por los años especificados
-datos_filtrados <- encontrar_mejor_equipo(2000, 2020, 1)
+datos_filtrados <- encontrar_mejor_equipo(2010, 2020, 1)
 # View(datos_filtrados)
 
 leaflet() %>%
@@ -64,5 +64,6 @@ leaflet() %>%
       "<b>Circuito</b>: ", datos_filtrados$name, "<br>",
       "<b>Equipo</b>: ", datos_filtrados$team, "<br>",
       "<b>Puntos</b>: ", datos_filtrados$total_points
-    )
+    ),
+    clusterOptions = markerClusterOptions()
   )
